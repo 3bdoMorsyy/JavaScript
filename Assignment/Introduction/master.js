@@ -42,5 +42,11 @@ console.log("Message Two");
 */
 
 // Task 5
-
 // console.table(["Elzero", "Ahmed", "Sameh", "Gamal", "Aya"]);
+
+
+// Task 6
+// We just put them in comments :) to prevent code from running
+
+// console.log("Iam In Console");
+// document.write("Iam In Page");
