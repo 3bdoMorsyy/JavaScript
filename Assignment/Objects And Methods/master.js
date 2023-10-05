@@ -121,3 +121,5 @@ for (let i = 0; i < objectLength; i++) {
   }
   console.log("#".repeat(20));
 }
+
+//check for more information => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
